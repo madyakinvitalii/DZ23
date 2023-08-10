@@ -1,2 +1,1 @@
-# lesson23_project_source
-это репозиторий с исходником домашнего задания к уроку "Функциональное программирование"
+A Flask web server that replicates Linux command line functionality for file manipulation consists of a single POST method.
